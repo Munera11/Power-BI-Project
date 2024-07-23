@@ -1,6 +1,6 @@
 # Power-BI-Project
 
-## 🎯 Instructions < br / >
+## 🎯 Instructions <br/>
 The challenge will be considered complete when you submit the URL of the document you have been working on. Make sure that the URL is in share mode and accessible by the teacher.
 If there is no submission option on the exercise, click on the “I’m done” button.
 
