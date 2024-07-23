@@ -200,6 +200,7 @@ A good presentation should include:
 * A clear problem statement at the beginning (don’t hesitate to put yourself in a role to explain your objectives and the decisions you’ve made - without going into technical details).
 * Relevant data, charts and analysis to address the problem
 * A list of recommended actions to take moving forward
+
 **IMPORTANT ! Remember** It’s not about how many charts or how much data you show!
 Your role as a Data Analyst is to interpret that data and present your findings for better decision-making.
 
